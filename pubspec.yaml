@@ -1,0 +1,4 @@
+name: doc_generator
+description: A sample command-line application
+dependencies:
+  unittest: any

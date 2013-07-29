@@ -1,0 +1,14 @@
+*.iml
+.idea
+*.dart.js
+*.dart.js.deps
+*.dart.js.map
+*.buildlog
+pubspec.lock
+.settings/
+packages
+bin/packages
+test/packages
+web/packages
+docs/
+pubspec.lock
