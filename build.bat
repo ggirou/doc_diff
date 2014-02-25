@@ -1,1 +1,1 @@
-dartdoc --no-code --include-api bin/doc_generator.dart
+dartdoc --no-code --include-api bin/doc_diff.dart
